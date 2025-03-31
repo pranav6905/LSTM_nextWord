@@ -32,7 +32,7 @@ The goal of this project is to predict the next word in a given sentence using a
 - **Framework**: Streamlit
 - **Usage**: Deployed as a web application where users can input a sentence to receive predicted next words.
 
-🔗 [Live Demo](https://github.com/pranav6905/LSTM_nextWord)
+🔗 [Live Demo](https://lstmnextword-fm25q8wmqz54h4fbd7f2qm.streamlit.app/)
 
 ---
 
